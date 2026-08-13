@@ -1,0 +1,19 @@
+[0xD05E26A2]
+name = "AddProtobufAsBinary"
+rva = "0x9B17E0"
+sig = "40 53 55 56 57 48 83 EC 28 48 8B 05 ?? ?? ?? ?? 48 8B F2"
+
+[0x3FC68546]
+name = "GetAppByID"
+rva = "0x5DBB60"
+sig = "89 54 24 10 53 48 83 EC 40 48 8B 05 ?? ?? ?? ??"
+
+[0xC89CFA75]
+name = "GetTopManager"
+rva = "0x5F85D0"
+sig = "48 8B 05 99 E6 AF 00 C3"
+
+[0xBDE16BD6]
+name = "LoadModuleWithPath"
+rva = "0x863AC0"
+sig = "48 89 5C 24 18 55 56 41 57 48 83 EC 40"
