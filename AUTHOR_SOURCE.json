@@ -1,0 +1,485 @@
+{
+  "source": "https://github.com/huanyuejue/steam-monitor",
+  "source_commit": "c53bb228a0900122c7182548f50ec227b749f8f7",
+  "mirror_branch": "author-main",
+  "prepared_on": "2026-11-16",
+  "published": true,
+  "license": "No LICENSE or COPYING file present in the source commit; the repository owner reports direct author authorization to copy, modify, and use.",
+  "authorization": {
+    "status": "user-confirmed",
+    "confirmed_on": "2026-11-16",
+    "reported_scope": "copy, modify, and use"
+  },
+  "files": [
+    {
+      "path": "ipc/steamclient/0156589a0747e298c64be5902cc8934a99d468ddb8f7249f8be87f6fa50f15a6.toml",
+      "sha256": "c56307bdd7873bbadc1b4f3805ccd528733c000791182c80d987ffd11e69a0b6",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/1610ec6a325e009d83b7a9b4537d0575d8ab8f8714c471260ca7f71fffd57c27.toml",
+      "sha256": "38e73995932e8f909b4f40c89cb0d686ae17d0c29da4c03db45079038dfef5ac",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/253e0a11a4415b38c78a42f7bdd6ecc426455f06c1ba6453a48090df3142dbbc.toml",
+      "sha256": "a0685595dd563cc2b48beff015d1848bbe45635becdf60029656925809f4b345",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/2f378d2c49e1770b5a1de0e2c461dd5a987558cd22d1d95ac3d9ed026d10cb36.toml",
+      "sha256": "38e73995932e8f909b4f40c89cb0d686ae17d0c29da4c03db45079038dfef5ac",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/39e5a04d731a49977137211f6c8afbb5083ef91b55af13a3a8b60e71989ed558.toml",
+      "sha256": "2a6c0240843728e14f6299da10369172a0ae6962fdc9e8ca2c03b3bd947bb0c4",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/3f2de2f8b40fcded90e51d85cb047ee738592b70412088fd1115c68a70a47d90.toml",
+      "sha256": "1d232f97da0a569b065b132a4a8360f99dc55539251041a7dcca6139a90cb00c",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/4471517105b1fbd603441b38db04570d185a9c993e3aa54b5cc237c3eb1fe51f.toml",
+      "sha256": "c6cf1a4b90b6dff222bb49fbc859e49d791a38fbb4f6bfd420f5b67e2b2fdf10",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/5aa9bbc2cecef9188cbb1a09aef34188201f18cda0381f0aefed5502967f8752.toml",
+      "sha256": "772c98ab36841846da10b58a336179158751dd03702eeed0fd2a1ce63baaafc7",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/669fa08e259277fbf5a1dfe15ce88afe734e89151194304b44d92f418dcc985b.toml",
+      "sha256": "f4cb4ee88b91c000d67112f9f56a901aecf6e789cd41e8a76a7171c394b99453",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/676e04ad52e57961fe7a99de56379cdfb64e169c7f9cc1a37a36d6ac34e8309c.toml",
+      "sha256": "5ce445aaf5f4ce3643c1007203028f1d4f54a66bbdef9a72098f5c8df9cae9b0",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/6980e1cdf6086e500e53d68e23292eadef313b19a998b8e3c67650c88bc74cff.toml",
+      "sha256": "9268fd8d7727cb0082c7408174a54a984d73c6f4ce4b42490d8af4823e48c9db",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/6cc13c9af2b95aadb4a76f7a30601de48b303dbfa3ce58fc5c8db7a44d495602.toml",
+      "sha256": "a3960bdd944e24ea1daf15b7955d3db54f91b1394729a22e99b07708814bd33b",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/711adbd8ef7f7b7fe7e93b2689173091500c4b137047e79549450260c11c966a.toml",
+      "sha256": "35fa2221e2dfa68620d0449f48c6df1e5c7479cb77f293efedd968ea20e07849",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/78b1f41e23887767cd791bff63257d83f2a81599c5f0dabac1f36e1ed5a767e2.toml",
+      "sha256": "e7e5c04046f595354c8d3b84503da6b044c505e715cc1470f4d6420ddd1af9a5",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/7b2ae9f805ecba2ae2c733aa934a715f052a16eb481090e1f3cb88d7501c8df8.toml",
+      "sha256": "2d52c1b36e769209f611ff6a45128ca6ef15fd4d9e975e95cbb4e2ab606e746a",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/844afeaec219d366b4fd01f2c1718f8d0c567212d4b521c124494aaa1b0eca30.toml",
+      "sha256": "05559b14758f8989fd5c7e68679c163a1f6be8661ca0e37ab08cdc5891a117c0",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/891378c07c8524336f644e517e21d7ba7523227d78a2ec090fa405acdb2e4579.toml",
+      "sha256": "8903485d6ecc7d542a76ba5d0124b226aa01b97df28ee25b4ba026d2ad7245c1",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/90f24d3b2f6f8e627e0f1f0ae7d713aa86d0e86f70d2039a30907adbfdb5927c.toml",
+      "sha256": "ec978d02e6f3ce4188e359e43f615f7982b868e27bd02bfe4c804fa1482f8bc6",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/a1b33085bc64189e4d88935803a03a3ef21e17a2c1948ca2d222849c976b30c5.toml",
+      "sha256": "a3960bdd944e24ea1daf15b7955d3db54f91b1394729a22e99b07708814bd33b",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/a984dd3f1e6e863686489b957a88d707520aeb386a04534cce669de7054f1295.toml",
+      "sha256": "88e2ec9f6a58b61c21f8a42f20f9b940195c2d19fd8df03640e722cd17cc285f",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/b09e96b94db606b380562e276e7083fbe3433767ad2c6d0f67dfb3eeb811806b.toml",
+      "sha256": "38e73995932e8f909b4f40c89cb0d686ae17d0c29da4c03db45079038dfef5ac",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/b91599b5ab91cfc5ce7db578faa8ad864d358542ab3cbc9c8187048a8935cf63.toml",
+      "sha256": "dfe74f1bccf46ece532b118403b2bd7d0cc68ee1e5b3c5cdadb9c43029a77661",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/c7bb26f4a1f07a5908e807beb5a25b44d033fde10989da64306492997a6663f5.toml",
+      "sha256": "1d232f97da0a569b065b132a4a8360f99dc55539251041a7dcca6139a90cb00c",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/caba4826aa3501039d095aee1843a6bfb270fb43a3ab4455b2d6733223579fee.toml",
+      "sha256": "d2c1cf5789236233e0ab75eeacfe937e3528d6fec941939c2f88ab14d2d26ced",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/d2d085e724fd27ee7b52596f8848c622ae09dfbb6d5b73d0eb2cb51469b0d2d8.toml",
+      "sha256": "29dd9f28ba0ef30a91e6c8b316654fb34b24f2001947f578f5b42643e836e4dc",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/d601f779f14ab1f9da0bdd9ebed4bfa572a7b8b8acdfc92ea45103728c20721b.toml",
+      "sha256": "4285836f3b2be1407203f0995226f50a291b4072d18b66169a4e0c85ce9a3359",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/e9045710ec7ee47d7b7488d1c5dda2d933dec7e251e965967a5c48f4df68eb4e.toml",
+      "sha256": "1d232f97da0a569b065b132a4a8360f99dc55539251041a7dcca6139a90cb00c",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/ebf46f84606e4dc49ebd551f6621f7ca5c19927d572a49f0aa4925ce9414096c.toml",
+      "sha256": "dd732c739f3e62f46230a810483f207a9dcaeb19a1d785f45d0a37dab68809d8",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/eeae2113d6f19c96f5d0d03d55ce6f80986e01fcfaab556d6529417b9be106b5.toml",
+      "sha256": "e03b8a5c91070081a3508eb2bcc95e89bc1e70b938e0f38aa777c98572b37387",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/f2b3fdef5dccbb75ba07f9f099d79b27c3d0815b7783e1a23888d2ccb808c4f6.toml",
+      "sha256": "ec978d02e6f3ce4188e359e43f615f7982b868e27bd02bfe4c804fa1482f8bc6",
+      "size": 997
+    },
+    {
+      "path": "ipc/steamclient/f85eab29764866ff3e4e45ec4fd4482a2a37417a6bcd9a17612969d308322109.toml",
+      "sha256": "b12c3eb98e7251f9e471b5e4cf121eca04ad1533af54f24bf2ca0865e59fa3e8",
+      "size": 997
+    },
+    {
+      "path": "pattern/steamclient/0156589a0747e298c64be5902cc8934a99d468ddb8f7249f8be87f6fa50f15a6.toml",
+      "sha256": "7cd1b6f4fae08db104bfc9695702c87fc616f9301715af751bffeda5a37e1b74",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/1610ec6a325e009d83b7a9b4537d0575d8ab8f8714c471260ca7f71fffd57c27.toml",
+      "sha256": "7476c73d03e715061d65d36b5a3d44da9a537cd2f4b721d960cb82658f76d097",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/253e0a11a4415b38c78a42f7bdd6ecc426455f06c1ba6453a48090df3142dbbc.toml",
+      "sha256": "babe9298f0ac08a59838989a21c0b06460ae1ea8224287ce899799e19a63e420",
+      "size": 3669
+    },
+    {
+      "path": "pattern/steamclient/2f378d2c49e1770b5a1de0e2c461dd5a987558cd22d1d95ac3d9ed026d10cb36.toml",
+      "sha256": "0570cf1598b64010d004e3bcd8cdda59c29d6bb18874fbe4893bdbcadfdbd3ee",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/39e5a04d731a49977137211f6c8afbb5083ef91b55af13a3a8b60e71989ed558.toml",
+      "sha256": "908b97ebd0dcc83cdc9bb18b27a644cecaca1b3a8441ea720ef6c7c42caf712f",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/3f2de2f8b40fcded90e51d85cb047ee738592b70412088fd1115c68a70a47d90.toml",
+      "sha256": "d5495d76030e2353bcdf81e41fd0f5ff98e7db46557d544d6fab492cf511bce9",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/4471517105b1fbd603441b38db04570d185a9c993e3aa54b5cc237c3eb1fe51f.toml",
+      "sha256": "67c2eca5af039516fbee2208e342e03e2f8976c22437b7355c70e2bade28d404",
+      "size": 3669
+    },
+    {
+      "path": "pattern/steamclient/5aa9bbc2cecef9188cbb1a09aef34188201f18cda0381f0aefed5502967f8752.toml",
+      "sha256": "eb85159833419707cd5cac2b1180bac4a25c233874b9479811d75ce71885b212",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/669fa08e259277fbf5a1dfe15ce88afe734e89151194304b44d92f418dcc985b.toml",
+      "sha256": "7e471686ac7f0bf02f9e6b68187ba33987236a66bcb550efa747a2ab206990ec",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/676e04ad52e57961fe7a99de56379cdfb64e169c7f9cc1a37a36d6ac34e8309c.toml",
+      "sha256": "bc66259c5736f5c8212eb8e78f453c7b21f63034e43b06c17c9e14878ee3b25d",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/6980e1cdf6086e500e53d68e23292eadef313b19a998b8e3c67650c88bc74cff.toml",
+      "sha256": "25aaba6f3fe5be1ec06d0290472f8272bc34316fdf431965364023ed8f7151d2",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/6cc13c9af2b95aadb4a76f7a30601de48b303dbfa3ce58fc5c8db7a44d495602.toml",
+      "sha256": "f519aa1d264981d79a4853beadd43f9654cc255bebb328149731a8e14598b30f",
+      "size": 3669
+    },
+    {
+      "path": "pattern/steamclient/711adbd8ef7f7b7fe7e93b2689173091500c4b137047e79549450260c11c966a.toml",
+      "sha256": "10934912a54c81df2c266bfa3eaf3c635876c955ac3a2a94f3bcd4b137482cb2",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/78b1f41e23887767cd791bff63257d83f2a81599c5f0dabac1f36e1ed5a767e2.toml",
+      "sha256": "1c918ed32ef669a9f27749e9c9fe71318180724ef4503cf1c9ff4e1c14edd587",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/7b2ae9f805ecba2ae2c733aa934a715f052a16eb481090e1f3cb88d7501c8df8.toml",
+      "sha256": "f06493aecc097f3624330dc9f9b49f69000c5d35ac2833e84632bfed9d903fac",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/844afeaec219d366b4fd01f2c1718f8d0c567212d4b521c124494aaa1b0eca30.toml",
+      "sha256": "8841feaa89402b9c23741b147810479f3c669e6afff43a934c0d1c9ea75ab98a",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/891378c07c8524336f644e517e21d7ba7523227d78a2ec090fa405acdb2e4579.toml",
+      "sha256": "9acf26220b348d9fb1bfbfbb8433178594ba1291bee76c634e671f8189e8c0c5",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/90f24d3b2f6f8e627e0f1f0ae7d713aa86d0e86f70d2039a30907adbfdb5927c.toml",
+      "sha256": "0e45024f0926dcae3b915ec38dcc5c6e7bf24e53ee570039b2a1bed61b1a4724",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/a1b33085bc64189e4d88935803a03a3ef21e17a2c1948ca2d222849c976b30c5.toml",
+      "sha256": "f519aa1d264981d79a4853beadd43f9654cc255bebb328149731a8e14598b30f",
+      "size": 3669
+    },
+    {
+      "path": "pattern/steamclient/a984dd3f1e6e863686489b957a88d707520aeb386a04534cce669de7054f1295.toml",
+      "sha256": "760dfc57fe9a04e02cedd0c096a48a46a82fab4d219ba4e411f4a75133b47b9b",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/b09e96b94db606b380562e276e7083fbe3433767ad2c6d0f67dfb3eeb811806b.toml",
+      "sha256": "4570741fa6774ebb4af23674f47613cef3a7f4ab8665969475114cc381915d4e",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/b91599b5ab91cfc5ce7db578faa8ad864d358542ab3cbc9c8187048a8935cf63.toml",
+      "sha256": "fa8b9540d7d9e62a260939e8539bc92f508f45fe4ce96daa49c23c03f86e0f54",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/c7bb26f4a1f07a5908e807beb5a25b44d033fde10989da64306492997a6663f5.toml",
+      "sha256": "8563df1c54100a48a933a42987956d57ff9f36ca131b43f796f318459ac73ddb",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/caba4826aa3501039d095aee1843a6bfb270fb43a3ab4455b2d6733223579fee.toml",
+      "sha256": "c7581a73fe05afeb07f72a84b5b5f3166a1b1fcfad60fad5f8975e98fbd0c09a",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/d2d085e724fd27ee7b52596f8848c622ae09dfbb6d5b73d0eb2cb51469b0d2d8.toml",
+      "sha256": "62a1aa02da015386893bc021576abc494e99ebf1e61930ca9b7b31f9dfa13213",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/d601f779f14ab1f9da0bdd9ebed4bfa572a7b8b8acdfc92ea45103728c20721b.toml",
+      "sha256": "8c60a1951d58bfb1966473d42de9fb4c882059329730980387f5f3c1135757b2",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/e9045710ec7ee47d7b7488d1c5dda2d933dec7e251e965967a5c48f4df68eb4e.toml",
+      "sha256": "d5495d76030e2353bcdf81e41fd0f5ff98e7db46557d544d6fab492cf511bce9",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/ebf46f84606e4dc49ebd551f6621f7ca5c19927d572a49f0aa4925ce9414096c.toml",
+      "sha256": "1ac8724856ce359edbd1254fcd8b608c1f26c71ab6bbd5da32385fac75b357e5",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/eeae2113d6f19c96f5d0d03d55ce6f80986e01fcfaab556d6529417b9be106b5.toml",
+      "sha256": "6cc040edb1757f4e68867b8cba1978e04bd2a9989dbc63b95c665d2a2372db02",
+      "size": 3633
+    },
+    {
+      "path": "pattern/steamclient/f2b3fdef5dccbb75ba07f9f099d79b27c3d0815b7783e1a23888d2ccb808c4f6.toml",
+      "sha256": "0e45024f0926dcae3b915ec38dcc5c6e7bf24e53ee570039b2a1bed61b1a4724",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamclient/f85eab29764866ff3e4e45ec4fd4482a2a37417a6bcd9a17612969d308322109.toml",
+      "sha256": "0f7ec170be06a0a82a086ca23615926ec84703b25746733455697478b70d8bae",
+      "size": 3666
+    },
+    {
+      "path": "pattern/steamui/09b17a4487959d2d42bb8e4f004dde9ccba1466a0a0900107275e29b60122e90.toml",
+      "sha256": "74036f05d4f9171c9dd7ee37124f6468a7dffcb570abfe76a36add561384e1d5",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/1b9457943205dc3af0bd53463ba331cbd2a381388699705c02271aac7a2b1252.toml",
+      "sha256": "9fcb949cefabe5476f7f2969548b13fff27a2f98f378c9c75b3a630165ca38ab",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/29678ea5ad1749ceedf66a76e55ee07fb0fdfd15e4c9be72af79f75b8c011db9.toml",
+      "sha256": "5755acc66a5a1a3803d09418d11ce2e7af2e85687fa715b93fae011e0fc1433e",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/2dfb0a5d50dd90667549cc7d413c7bfb0794c9af4ebaf08bf1cf7d938a11ea93.toml",
+      "sha256": "12e7404c4a51507e21882b8e3f088b1d8c2dfcc2887468ab56cb86fb2a2c48d5",
+      "size": 1541
+    },
+    {
+      "path": "pattern/steamui/4bb124970142e0a1d8d79808eaaa72c13fd0de920e08b36ebaee13b1cdc6c8ca.toml",
+      "sha256": "e2770a13be95fd6d5e9bdf83f996ea545419164a3df7221dbc76763f81e2ccb3",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/4d938b77063a54c4c88cf4fe3fab57ce911728364571f364257ba2403ad62409.toml",
+      "sha256": "f22db819f4e42da4715306f16f27ddf47ae634db7f32b44d024c1354aead6378",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/505f494c18669f5c95b2d553c151935017ea4b95d05e10d355a647f18f425280.toml",
+      "sha256": "5755acc66a5a1a3803d09418d11ce2e7af2e85687fa715b93fae011e0fc1433e",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/579c6fe40c7970cc2c4100b5e0cab4ed4b3898e85b33c0ce8c1a779458cd18ff.toml",
+      "sha256": "1c30ed644cc0c0ae118e493304ef7a4cc34cf0fe720fc7e3b622919f384e96a0",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/59029615b12210be374c8b10afab64cc3bdf293d12266aa4b50619cabb8b910e.toml",
+      "sha256": "f59af354f2d331fc538ca954209bd53747a39d7791e6f4729767340995fe622d",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/5a3afd9b15f0a2f4dbad332a28e6fc59db02efc85b1e0b33b246482e38e7428e.toml",
+      "sha256": "3485956865537f6a0e6d17926d93ee2b6b2009c592a1aa7baed8caf22d1562f0",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/5c01fa9b7a047d563abc9dfdd3a2a7b75ff3cd4764da546c21ad1fc07199c987.toml",
+      "sha256": "e1266279aac203a483f2c885f4ab2e4be9d58719ff956ff60f0fa4976accc476",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/5fdf0f7972ed7f6acb3949ec6dcd8a424e607a044a3e992bd3ffe8ebcf4d96f7.toml",
+      "sha256": "e2770a13be95fd6d5e9bdf83f996ea545419164a3df7221dbc76763f81e2ccb3",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/61b15d690f5a646d7f0226403d322cad66818572b9f05274c7eb62ec008f73ab.toml",
+      "sha256": "a420edbaa9ac5afc64bfe7e55eddd6058ca7199e4f0d9fec0f94a7b97d8db7ae",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/844f7afeb1543ba00894840513931e65b5c6944cf597e0418f0509fbb0b56cc2.toml",
+      "sha256": "d25c7d5af11f12e58ac2373d828ab7e07aaec6bff2c500c61bd4c1b1aff411b0",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/869364dcb6973a3a6e494ab4ed82a3c3f6a8e61de2284e3bb5221e008f3c6108.toml",
+      "sha256": "81d5f71b2b04c5b49955d4a2242ce84e85774c41a528ebe28af05b1c7f77ba07",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/a2713e86183fec6304285b348be4d50647c99511475e811d0fd9d84931c9e9ac.toml",
+      "sha256": "97b55f9886d88a32791cadc72be17a955c5c4895f197a135d49be5813b3ab6f1",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/a4511361b3a1f60317a3843aa1e2e7c4f5ee5f08979eba2d616b4df332d4429c.toml",
+      "sha256": "27e0093549bc3a29a7de041d5e2f8a5dfef42da0d2683a020efa15c2eb78595f",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/ade82c4958685d768fcf86f02e4132d0f60adf23605e93f7c263b2c859743691.toml",
+      "sha256": "6983a246f0ca393644e9ee719c555e7593ec2c8393176769e5b17ce250a8fce2",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/b668c833a80241abddeb286b7315e65129954d90135d03d005187aa285683219.toml",
+      "sha256": "e259b05e1f2c5da19324fc836620d2617fc9652d4ce941d68b79f611bffbd262",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/b9bc8f0acf0c470cb568c3e49e372a0610a7fcd707add6ffac7accc4c9376e6d.toml",
+      "sha256": "188563cbff4c8809723d526bcc6dacce49d5c120ba52844926608439f1867d15",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/c06889e678ecba8518450da96c8681156b4a2beb149c31d6426a060efef55d63.toml",
+      "sha256": "bf3953718fc09e2765aa4c66302280eea0a96633e5c4adb1186f51df5de8798e",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/c4a1eae640411380fd2b419bfdb3b34ecca65c14bcf7ad6881b9886d3a6d1de4.toml",
+      "sha256": "97b55f9886d88a32791cadc72be17a955c5c4895f197a135d49be5813b3ab6f1",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/cb387adefbbac64a3c1490d4275d00daf3a1e0219b4580726ef7681db7429278.toml",
+      "sha256": "86b687c4717331876984ed31537fb87385c8fd6898e34305f6540adccd374971",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/cbece19e1beda74f05974d917ea5f90ffc2cdd52c8730967f64de160aa172b73.toml",
+      "sha256": "2389c5d0cda004ecd97d9cb21ed8093520a5ae153003d8721df5eaee77a7f37d",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/cc2a5879cc294764686dbee761c327dfe4dac281212c4de8669aa707e04fe980.toml",
+      "sha256": "878e6b9de4545d51e9ab44461ce4d48bd7abcd60c5f17e2ef69a6a7d54d6ba77",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/cd9226db4e6c28942df70c22c0475d91fdd62cba5f100baae2d65af57cabb610.toml",
+      "sha256": "a9ff5b1d78e8f507cb629c4c8536c74ac981db42204f8c60534c5b1249b946f9",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/d96369971d3f9a13b8ab7f568b9b2478dd7ab3599eb520017b9508340473d224.toml",
+      "sha256": "eb8142ac50370341c578600e593acf84f8096d57d8f832d4a402ec14e1cbd354",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/ec4e251f091925455cc8e8c83cde0e2c0ab02588332153158f384ecc8c00202f.toml",
+      "sha256": "884e98d0de2b6609ef70ffe95873817077b071f85d147ebbb51fb25f18eeb6c5",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/faf33d557201c2ec50dfa41449324ce63d2e1c90b5b005be4192ddc242a7bc5c.toml",
+      "sha256": "d79957bef7b1a14292cd31871da51f13d7cf42c351fba34c6dae4a0318c66534",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/fd666ab756515ae428595cb01c83f29a24280b4c4e45d46e35c783dd15fd0325.toml",
+      "sha256": "3e94510e87561bd8d03e0d23a5fb6e8a850e884b6ca3cb0fcda0efad260319b7",
+      "size": 1529
+    },
+    {
+      "path": "pattern/steamui/fe42451e6b413558adf87ba37f1ec398ec7031094f63232300df5015dcc3779c.toml",
+      "sha256": "bf3953718fc09e2765aa4c66302280eea0a96633e5c4adb1186f51df5de8798e",
+      "size": 1529
+    },
+    {
+      "path": "pattern/versions.json",
+      "sha256": "184bf162126f89c7f8ed194eddd7de921e457bdd9a4d84b2c7a99644c96f98c7",
+      "size": 7211
+    }
+  ]
+}

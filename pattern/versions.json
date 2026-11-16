@@ -1,0 +1,162 @@
+{
+  "1788652215": {
+    "channel": "stable",
+    "steamclient64.dll": "caba4826aa3501039d095aee1843a6bfb270fb43a3ab4455b2d6733223579fee",
+    "SteamUI.dll": "cb387adefbbac64a3c1490d4275d00daf3a1e0219b4580726ef7681db7429278"
+  },
+  "1789086785": {
+    "channel": "beta",
+    "steamclient64.dll": "78b1f41e23887767cd791bff63257d83f2a81599c5f0dabac1f36e1ed5a767e2",
+    "SteamUI.dll": "5a3afd9b15f0a2f4dbad332a28e6fc59db02efc85b1e0b33b246482e38e7428e"
+  },
+  "1789606022": {
+    "channel": "beta",
+    "steamclient64.dll": "a984dd3f1e6e863686489b957a88d707520aeb386a04534cce669de7054f1295",
+    "SteamUI.dll": "cbece19e1beda74f05974d917ea5f90ffc2cdd52c8730967f64de160aa172b73"
+  },
+  "1789781627": {
+    "channel": "beta",
+    "steamclient64.dll": "d2d085e724fd27ee7b52596f8848c622ae09dfbb6d5b73d0eb2cb51469b0d2d8",
+    "SteamUI.dll": "579c6fe40c7970cc2c4100b5e0cab4ed4b3898e85b33c0ce8c1a779458cd18ff"
+  },
+  "1790036264": {
+    "channel": "beta",
+    "steamclient64.dll": "90f24d3b2f6f8e627e0f1f0ae7d713aa86d0e86f70d2039a30907adbfdb5927c",
+    "SteamUI.dll": "61b15d690f5a646d7f0226403d322cad66818572b9f05274c7eb62ec008f73ab"
+  },
+  "1790121765": {
+    "channel": "beta",
+    "steamclient64.dll": "f2b3fdef5dccbb75ba07f9f099d79b27c3d0815b7783e1a23888d2ccb808c4f6",
+    "SteamUI.dll": "b9bc8f0acf0c470cb568c3e49e372a0610a7fcd707add6ffac7accc4c9376e6d"
+  },
+  "1790380355": {
+    "channel": "beta",
+    "steamclient64.dll": "4471517105b1fbd603441b38db04570d185a9c993e3aa54b5cc237c3eb1fe51f",
+    "SteamUI.dll": "ade82c4958685d768fcf86f02e4132d0f60adf23605e93f7c263b2c859743691"
+  },
+  "1790534246": {
+    "channel": "beta",
+    "steamclient64.dll": "a1b33085bc64189e4d88935803a03a3ef21e17a2c1948ca2d222849c976b30c5",
+    "SteamUI.dll": "fe42451e6b413558adf87ba37f1ec398ec7031094f63232300df5015dcc3779c"
+  },
+  "1790545198": {
+    "channel": "beta",
+    "steamclient64.dll": "6cc13c9af2b95aadb4a76f7a30601de48b303dbfa3ce58fc5c8db7a44d495602",
+    "SteamUI.dll": "c06889e678ecba8518450da96c8681156b4a2beb149c31d6426a060efef55d63"
+  },
+  "1790721607": {
+    "channel": "beta",
+    "steamclient64.dll": "f85eab29764866ff3e4e45ec4fd4482a2a37417a6bcd9a17612969d308322109",
+    "SteamUI.dll": "fd666ab756515ae428595cb01c83f29a24280b4c4e45d46e35c783dd15fd0325"
+  },
+  "1790904859": {
+    "channel": "beta",
+    "steamclient64.dll": "39e5a04d731a49977137211f6c8afbb5083ef91b55af13a3a8b60e71989ed558",
+    "SteamUI.dll": "cc2a5879cc294764686dbee761c327dfe4dac281212c4de8669aa707e04fe980"
+  },
+  "1791249696": {
+    "channel": "beta",
+    "steamclient64.dll": "7b2ae9f805ecba2ae2c733aa934a715f052a16eb481090e1f3cb88d7501c8df8",
+    "SteamUI.dll": "59029615b12210be374c8b10afab64cc3bdf293d12266aa4b50619cabb8b910e"
+  },
+  "1791415817": {
+    "channel": "beta",
+    "steamclient64.dll": "0156589a0747e298c64be5902cc8934a99d468ddb8f7249f8be87f6fa50f15a6",
+    "SteamUI.dll": "869364dcb6973a3a6e494ab4ed82a3c3f6a8e61de2284e3bb5221e008f3c6108"
+  },
+  "1791592380": {
+    "channel": "beta",
+    "steamclient64.dll": "d601f779f14ab1f9da0bdd9ebed4bfa572a7b8b8acdfc92ea45103728c20721b",
+    "SteamUI.dll": "5c01fa9b7a047d563abc9dfdd3a2a7b75ff3cd4764da546c21ad1fc07199c987"
+  },
+  "1791686101": {
+    "channel": "beta",
+    "steamclient64.dll": "711adbd8ef7f7b7fe7e93b2689173091500c4b137047e79549450260c11c966a",
+    "SteamUI.dll": "ec4e251f091925455cc8e8c83cde0e2c0ab02588332153158f384ecc8c00202f"
+  },
+  "1791851171": {
+    "channel": "beta",
+    "steamclient64.dll": "c7bb26f4a1f07a5908e807beb5a25b44d033fde10989da64306492997a6663f5",
+    "SteamUI.dll": "a2713e86183fec6304285b348be4d50647c99511475e811d0fd9d84931c9e9ac"
+  },
+  "1791856936": {
+    "channel": "beta",
+    "steamclient64.dll": "3f2de2f8b40fcded90e51d85cb047ee738592b70412088fd1115c68a70a47d90",
+    "SteamUI.dll": "c4a1eae640411380fd2b419bfdb3b34ecca65c14bcf7ad6881b9886d3a6d1de4"
+  },
+  "1791918634": {
+    "channel": "beta",
+    "steamclient64.dll": "e9045710ec7ee47d7b7488d1c5dda2d933dec7e251e965967a5c48f4df68eb4e",
+    "SteamUI.dll": "1b9457943205dc3af0bd53463ba331cbd2a381388699705c02271aac7a2b1252"
+  },
+  "1792192922": {
+    "channel": "beta",
+    "steamclient64.dll": "6980e1cdf6086e500e53d68e23292eadef313b19a998b8e3c67650c88bc74cff",
+    "SteamUI.dll": "a4511361b3a1f60317a3843aa1e2e7c4f5ee5f08979eba2d616b4df332d4429c"
+  },
+  "1792618285": {
+    "channel": "stable",
+    "steamclient64.dll": "253e0a11a4415b38c78a42f7bdd6ecc426455f06c1ba6453a48090df3142dbbc",
+    "SteamUI.dll": "cd9226db4e6c28942df70c22c0475d91fdd62cba5f100baae2d65af57cabb610"
+  },
+  "1792626604": {
+    "channel": "beta",
+    "steamclient64.dll": "891378c07c8524336f644e517e21d7ba7523227d78a2ec090fa405acdb2e4579",
+    "SteamUI.dll": "d96369971d3f9a13b8ab7f568b9b2478dd7ab3599eb520017b9508340473d224"
+  },
+  "1792711043": {
+    "channel": "beta",
+    "steamclient64.dll": "844afeaec219d366b4fd01f2c1718f8d0c567212d4b521c124494aaa1b0eca30",
+    "SteamUI.dll": "faf33d557201c2ec50dfa41449324ce63d2e1c90b5b005be4192ddc242a7bc5c"
+  },
+  "1793056502": {
+    "channel": "beta",
+    "steamclient64.dll": "676e04ad52e57961fe7a99de56379cdfb64e169c7f9cc1a37a36d6ac34e8309c",
+    "SteamUI.dll": "b668c833a80241abddeb286b7315e65129954d90135d03d005187aa285683219"
+  },
+  "1793235415": {
+    "channel": "beta",
+    "steamclient64.dll": "5aa9bbc2cecef9188cbb1a09aef34188201f18cda0381f0aefed5502967f8752",
+    "SteamUI.dll": "844f7afeb1543ba00894840513931e65b5c6944cf597e0418f0509fbb0b56cc2"
+  },
+  "1793740892": {
+    "channel": "beta",
+    "steamclient64.dll": "eeae2113d6f19c96f5d0d03d55ce6f80986e01fcfaab556d6529417b9be106b5",
+    "SteamUI.dll": "09b17a4487959d2d42bb8e4f004dde9ccba1466a0a0900107275e29b60122e90"
+  },
+  "1793919658": {
+    "channel": "beta",
+    "steamclient64.dll": "b09e96b94db606b380562e276e7083fbe3433767ad2c6d0f67dfb3eeb811806b",
+    "SteamUI.dll": "4d938b77063a54c4c88cf4fe3fab57ce911728364571f364257ba2403ad62409"
+  },
+  "1794013917": {
+    "channel": "beta",
+    "steamclient64.dll": "2f378d2c49e1770b5a1de0e2c461dd5a987558cd22d1d95ac3d9ed026d10cb36",
+    "SteamUI.dll": "29678ea5ad1749ceedf66a76e55ee07fb0fdfd15e4c9be72af79f75b8c011db9"
+  },
+  "1794022194": {
+    "channel": "beta",
+    "steamclient64.dll": "1610ec6a325e009d83b7a9b4537d0575d8ab8f8714c471260ca7f71fffd57c27",
+    "SteamUI.dll": "505f494c18669f5c95b2d553c151935017ea4b95d05e10d355a647f18f425280"
+  },
+  "1794079253": {
+    "channel": "beta",
+    "steamclient64.dll": "b91599b5ab91cfc5ce7db578faa8ad864d358542ab3cbc9c8187048a8935cf63",
+    "SteamUI.dll": "4bb124970142e0a1d8d79808eaaa72c13fd0de920e08b36ebaee13b1cdc6c8ca"
+  },
+  "1794266161": {
+    "channel": "beta",
+    "steamclient64.dll": "ebf46f84606e4dc49ebd551f6621f7ca5c19927d572a49f0aa4925ce9414096c",
+    "SteamUI.dll": "5fdf0f7972ed7f6acb3949ec6dcd8a424e607a044a3e992bd3ffe8ebcf4d96f7"
+  },
+  "1794424036": {
+    "channel": "stable",
+    "steamclient64.dll": "ebf46f84606e4dc49ebd551f6621f7ca5c19927d572a49f0aa4925ce9414096c",
+    "SteamUI.dll": "5fdf0f7972ed7f6acb3949ec6dcd8a424e607a044a3e992bd3ffe8ebcf4d96f7"
+  },
+  "1794536281": {
+    "channel": "stable",
+    "steamclient64.dll": "669fa08e259277fbf5a1dfe15ce88afe734e89151194304b44d92f418dcc985b",
+    "SteamUI.dll": "2dfb0a5d50dd90667549cc7d413c7bfb0794c9af4ebaf08bf1cf7d938a11ea93"
+  }
+}
